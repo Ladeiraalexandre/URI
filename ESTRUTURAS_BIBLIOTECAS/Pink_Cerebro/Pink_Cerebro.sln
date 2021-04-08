@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pink_Cerebro", "Pink_Cerebro\Pink_Cerebro.csproj", "{3DCC0866-7A5C-46C5-B972-A29B9BD1FA10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DCC0866-7A5C-46C5-B972-A29B9BD1FA10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DCC0866-7A5C-46C5-B972-A29B9BD1FA10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DCC0866-7A5C-46C5-B972-A29B9BD1FA10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DCC0866-7A5C-46C5-B972-A29B9BD1FA10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E155E54-8262-4453-9105-6C05E6284A10}
+	EndGlobalSection
+EndGlobal
